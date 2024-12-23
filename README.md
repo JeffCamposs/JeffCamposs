@@ -18,4 +18,6 @@
 
 [![My Skills](https://skillicons.dev/icons?i=c,javascript,lua&theme=light)](https://skillicons.dev)
 
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jeffcamposs)](https://github.com/anuraghazra/github-readme-stats)
+
 
