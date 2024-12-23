@@ -18,6 +18,6 @@
 
 [![My Skills](https://skillicons.dev/icons?i=c,javascript,lua&theme=light)](https://skillicons.dev)
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=dracula)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jeffcamposs&show_icons=true&theme=dracula)
 
 
