@@ -15,10 +15,7 @@
 - Software Engineering Student
 
 ### Skills
-[![My Skills](https://skillicons.dev/icons?i=java,kotlin,nodejs,figma&theme=light)](https://skillicons.dev)
 
+[![My Skills](https://skillicons.dev/icons?i=javascript,lua&theme=light)](https://skillicons.dev)
 
-
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="32px"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/lua/lua-original.svg" width="32px">
-          
 
