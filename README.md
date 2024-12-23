@@ -16,6 +16,6 @@
 
 ### Skills
 
-[![My Skills](https://skillicons.dev/icons?i=javascript,lua&theme=light)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=c,javascript,lua&theme=light)](https://skillicons.dev)
 
 
